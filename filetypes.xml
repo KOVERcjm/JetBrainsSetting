@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
+      <mapping pattern="QueryRepositoriesResponse" type="AUTO_DETECTED" />
       <mapping pattern=".local_image_tag" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
