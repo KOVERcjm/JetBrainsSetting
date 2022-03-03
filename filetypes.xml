@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="QueryRegistryImagesResponse" type="AUTO_DETECTED" />
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
       <mapping pattern="QueryRepositoriesResponse" type="AUTO_DETECTED" />
       <mapping pattern="QueryRepositoryArtifactsResponse" type="AUTO_DETECTED" />
