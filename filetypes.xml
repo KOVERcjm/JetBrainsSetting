@@ -9,8 +9,6 @@
       <mapping ext="gotmpl" type="PLAIN_TEXT" />
       <mapping ext="migration" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
